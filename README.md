@@ -10,4 +10,4 @@ Assignments 6 and 7 utilitized a binary search tree, including rotations.
 
 Assignments 8 and 9 used graphs, with BFS and DFS used in each assignment, respectively.
 
-I am currently working on the final project, so I did not upload it to the repo. The project is building off of assignment 9 by using Dijkstra's algorithm, as well as heaps and priority queues.
+The final project is a dungeon crawler-style game. It uses Dijkstra's algorithm to find the easiest path from the start to the end of the dungeon. The dungeon is read in as a hash table, but then converted into a graph. Each enemy has a priority queue, with the most damaging weapon at the top.
